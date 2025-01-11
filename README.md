@@ -66,3 +66,7 @@ streamlit run app.py
   - The predicted class label (cat, dog, or uncertain).
   - The confidence score.
 
+
+https://github.com/user-attachments/assets/3b15886b-3a1e-4e8e-ab4d-512ef03be561
+
+
