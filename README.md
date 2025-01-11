@@ -30,8 +30,8 @@ A **Streamlit** web app interface is provided to allow users to upload an image 
 
 ### 1. Clone the Repository
 ```bash
-git clone <https://github.com/tobi6903/skinmitra-assignment.git>
-cd <https://github.com/tobi6903/skinmitra-assignment.git>
+git clone https://github.com/tobi6903/skinmitra-assignment.git
+cd https://github.com/tobi6903/skinmitra-assignment.git
 ```
 
 ### 2. Install Dependencies
