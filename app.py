@@ -35,7 +35,7 @@ def load_model(model_path="model.pth"):
 
 
 # Make predictions
-def predict(model, image_path, device, threshold=0.95):
+def predict(model, image_path, device, threshold=0.92):
     model.eval()
     image = Image.open(image_path).convert("RGB")
     image = transform(image).unsqueeze(0).to(device) 
